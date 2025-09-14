@@ -1,4 +1,4 @@
-<h1 align="center">🍣 Sushiman — Landing Page</h1>
+<h1 align="center">🍣 SushiWeb e</h1>
 <p align="center">
   <i>Tradición japonesa y diseño moderno con animaciones AOS</i>
 </p>
@@ -6,7 +6,7 @@
 ---
 
 ## ✨ Descripción
-**Sushiman** es una landing page moderna para un restaurante de sushi.  
+**SushiWEB** es una landing page moderna para un restaurante de sushi.  
 Está pensada para transmitir **frescura, elegancia y dinamismo**, con animaciones al hacer scroll y un diseño 100% responsive.  
 
 El objetivo es brindar una experiencia digital atractiva que combine **gastronomía japonesa auténtica** con un **diseño web llamativo**.  
