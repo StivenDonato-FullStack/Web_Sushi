@@ -13,15 +13,6 @@ El objetivo es brindar una experiencia digital atractiva que combine **gastronom
 
 ---
 
-## 🎬 Vista Previa
-> *(Agrega aquí screenshots o un GIF de tu sitio en acción)*  
-
-| Hero | Tendencias (トレンド) | Footer |
-|------|----------------|--------|
-| ![Hero](assets/screenshots/hero.png) | ![Trending](assets/screenshots/trending.png) | ![Footer](assets/screenshots/footer.png) |
-
----
-
 ## 🚀 Características
 - 🧭 Navegación fluida con secciones de Menú, Comida, Servicios y Sobre Nosotros.  
 - 💫 Animaciones con **AOS** (`fade-up`, `zoom-in`, `flip-down`, etc.).  
