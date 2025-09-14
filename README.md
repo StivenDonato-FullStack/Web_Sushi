@@ -1,4 +1,4 @@
-<h1 align="center">🍣 SushiWeb e</h1>
+<h1 align="center">🍣 SushiWeb</h1>
 <p align="center">
   <i>Tradición japonesa y diseño moderno con animaciones AOS</i>
 </p>
